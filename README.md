@@ -1,5 +1,5 @@
 # WSQ - Pattern Recognition with Deep Learning
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [WSQ - Pattern Recognition with Deep Learning](https://www.tertiarycourses.com.sg/wsq-pattern-recognition-deep-learning.html) course. 
 
